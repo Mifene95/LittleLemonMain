@@ -1,16 +1,10 @@
 # Little Lemon
-Little Lemon es un proyecto de restaurante en línea enfocado en la comida peruana. Permite a 
-los usuarios iniciar sesión, hacer pedidos para entrega y agregar artículos a su lista de favoritos.
+This project was created during Meta's Coursera Front-End Development course. This website was the culmuniation of the Front-End Development Track.
 
-Este proyecto se ha desarrollado utilizando tecnologías modernas como NextJS, Styled Components y Framer Motion 
-para crear una experiencia de usuario fluida y atractiva.
+This website showcased implementing a booking application on the Little Lemon Website. This was created with React Components to show an understanding of utilizing React for creating the website. This also features utilzing API calls.
 
-Puedes acceder a una versión en línea del proyecto en https://little-lemon-psi.vercel.app/.
+Please note: the only functionality working on this website besides the design is the Reserve a Table function.
 
-## Tecnologías utilizadas
 
-- NextJS
-- Styled Components
-- Framer Motion
 
 
