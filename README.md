@@ -13,9 +13,4 @@ Puedes acceder a una versión en línea del proyecto en https://little-lemon-psi
 - Styled Components
 - Framer Motion
 
-## Contacto
 
-- Portafolio : ???
-- Email : angelo.a.developer@gmail.com
-- Linkedin : https://www.linkedin.com/in/front-end-angelo/
-- Numero de Telefono : +56 9 7823 4940
